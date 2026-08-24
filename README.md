@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey! I'm Hermela Mezgebu 🇪🇹</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=💻+Software+Engineering+Student;🌐+Website+Developer;⚡+JavaScript+Developer;⚛️+React+Developer;🎨+UI%2FUX+Enthusiast;🔐+Aspiring+Cybersecurity+Analyst;🚀+Turning+Ideas+Into+Solutions" alt="Typing SVG" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=💻+Software+Engineering+Student;🌐+Website+Developer;⚡+JavaScript+Developer;⚛️+React+Developer;🎨+UI%2FUX+Enthusiast;🔐+Aspiring+Cybersecurity+Analyst;🚀+Turning+Ideas+Into+Solutions" alt="Typing SVG" /> </p>
+
+<p align="center"> <a href="https://github.com/Hermela-Mezgebu"> <img src="https://img.shields.io/github/followers/Hermela-Mezgebu?label=Followers&style=for-the-badge" alt="GitHub Followers"> </a> <a href="https://github.com/Hermela-Mezgebu"> <img src="https://komarev.com/ghpvc/?username=Hermela-Mezgebu&style=for-the-badge&color=blue" alt="Profile Views"> </a> </p>
 
 I'm a **4th-year Software Engineering student** passionate about turning ideas and real-world problems into useful, accessible, and user-friendly digital solutions.
 
@@ -136,20 +136,29 @@ I'm continuously improving my skills through projects, internships, bootcamps, a
 
 ---
 
-## 🐍 Contribution Snake
+GitHub Contributions & Statistics
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/Hermela-Mezgebu/Hermela-Mezgebu/output/github-contribution-grid-snake-dark.svg">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hermela-Mezgebu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Hermela's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hermela-Mezgebu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Hermela's Top Languages" /> </p>
 
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/Hermela-Mezgebu/Hermela-Mezgebu/output/github-contribution-grid-snake.svg">
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Hermela-Mezgebu&theme=tokyonight&hide_border=true" alt="Hermela's GitHub Streak" /> </p>
 
-    <img alt="GitHub Contribution Snake"
-         src="https://raw.githubusercontent.com/Hermela-Mezgebu/Hermela-Mezgebu/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+📈 Contribution Activity
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hermela-Mezgebu&theme=tokyo-night&hide_border=true&area=true" alt="Hermela's Contribution Graph" /> </p>
+
+🐍 Contribution Snake
+
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hermela-Mezgebu/Hermela-Mezgebu/output/github-contribution-grid-snake-dark.svg">
+
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/Hermela-Mezgebu/Hermela-Mezgebu/output/github-contribution-grid-snake.svg">
+
+<img
+  alt="GitHub Contribution Snake"
+  src="https://raw.githubusercontent.com/Hermela-Mezgebu/Hermela-Mezgebu/output/github-contribution-grid-snake.svg">
+
+</picture> </p>
 
 ## 🌐 Connect With Me
 
