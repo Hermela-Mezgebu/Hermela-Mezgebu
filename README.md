@@ -73,28 +73,6 @@ A digital escrow platform designed to make online buying and selling safer by pr
 
 ---
 
-### 🔎 FindET — Ethiopian Lost & Found Platform
-
-A platform designed to help people report, discover, and recover lost and found items.
-
-Users can report things such as:
-
-* 📱 Phones
-* 💻 Laptops
-* 🪪 ID cards
-* 📄 Important documents
-* 👛 Wallets
-* 🎒 Personal belongings
-
-The goal is to create a centralized platform that makes recovering lost property easier.
-
-**Future ideas:**
-
-* 🤖 Intelligent item matching
-* 📍 Location-based discovery
-* 🖼️ Image-based matching
-* 🔔 Notifications
-
 ---
 
 ### 📢 Billboard Rental System
@@ -158,18 +136,9 @@ I'm continuously improving my skills through projects, internships, bootcamps, a
 
 ---
 
-## 📊 GitHub Statistics
-
-![Hermela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🐍 Contribution Snake
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Hermela-Mezgebu/Hermela-Mezgebu/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🌐 Connect With Me
@@ -195,7 +164,7 @@ const hermela = {
     name: "Hermela Mezgebu",
     role: "Software Engineering Student",
     focus: [
-        "Frontend Development",
+        "Website Developer",
         "UI/UX Design",
         "Backend Development",
         "Cybersecurity"
